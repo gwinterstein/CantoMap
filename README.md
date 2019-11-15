@@ -1,4 +1,4 @@
-# Cantonese MapTask
+# CantoMap, the Cantonese MapTask corpus
 The Cantonese MapTask corpus is a collection of recordings of the MapTask task in contemporary Hong Kong Cantonese.
 
 The corpus contains the following:
