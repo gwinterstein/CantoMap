@@ -12,6 +12,6 @@ Details about the construction of CantoMap can be found in the following paper (
 
 Winterstein, Grégoire, Tang, Carmen and Lai, Regine (2020) "CantoMap: a Hong Kong Cantonese MapTask Corpus", in Proceedings of The 12th Language Resources and Evaluation Conference, Marseille: European Language Resources Association, p. 2899-2906.
 
-Available here: http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.354.pdf
+Available here: http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.355.pdf
 
 CantoMap is a registered language resource with the ISRLN (167-857-138-471-9): http://islrn.org/resources/167-857-138-471-9/
